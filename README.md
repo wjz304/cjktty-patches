@@ -8,6 +8,11 @@ Patches from [Gentoo-zh/linux-cjktty](https://github.com/Gentoo-zh/linux-cjktty)
 
 ## Changes
 
+### 2024.04.21 / 6.8 @andot
+
+- Resync for linux-6.8.y
+- Add Nerd font support for linux-6.0+
+
 ### 2023.12.31 / 6.7
 
 - Resync for linux-6.7.y
